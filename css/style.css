@@ -1,0 +1,99 @@
+body{
+	align-content: center;
+}
+
+.wrapper{
+	height: 300px;
+	width: 900px;
+}
+
+#red{
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: red;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#orange{
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: orange;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#yellow{	
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: yellow;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#green{
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: green;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#blue{
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: blue;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#violet{
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: violet;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+#owl{
+	line-height: 300px;
+	font-family: verdana;
+	font-size: 200px;
+	color: white;
+	background-color: red;
+	float: right;
+	height: 250px;
+	width: 250px;
+	text-align: center;
+}
+
+.picture1{
+   width:900px;
+   height:900px;
+   background-image:url('../images/200.gif');
+   margin:0;
+   padding:0;
+}
